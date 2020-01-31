@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 2e6f7b8b8bc74b7458b536d8b40890f3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: LBR_iiwa_14_R820
+    100004: LBR_iiwa_14_R820_link1
+    100006: LBR_iiwa_14_R820_link2
+    100008: LBR_iiwa_14_R820_link2_resp
+    100010: LBR_iiwa_14_R820_link3
+    100012: LBR_iiwa_14_R820_link3_resp
+    100014: LBR_iiwa_14_R820_link4
+    100016: LBR_iiwa_14_R820_link4_resp
+    100018: LBR_iiwa_14_R820_link5
+    100020: LBR_iiwa_14_R820_link5_resp
+    100022: LBR_iiwa_14_R820_link6
+    100024: LBR_iiwa_14_R820_link6_resp
+    100026: LBR_iiwa_14_R820_link7
+    100028: LBR_iiwa_14_R820_link7_resp
+    100030: LBR_iiwa_14_R820_link8
+    100032: LBR_iiwa_14_R820_link8_resp
+    400000: //RootNode
+    400002: LBR_iiwa_14_R820
+    400004: LBR_iiwa_14_R820_link1
+    400006: LBR_iiwa_14_R820_link2
+    400008: LBR_iiwa_14_R820_link2_resp
+    400010: LBR_iiwa_14_R820_link3
+    400012: LBR_iiwa_14_R820_link3_resp
+    400014: LBR_iiwa_14_R820_link4
+    400016: LBR_iiwa_14_R820_link4_resp
+    400018: LBR_iiwa_14_R820_link5
+    400020: LBR_iiwa_14_R820_link5_resp
+    400022: LBR_iiwa_14_R820_link6
+    400024: LBR_iiwa_14_R820_link6_resp
+    400026: LBR_iiwa_14_R820_link7
+    400028: LBR_iiwa_14_R820_link7_resp
+    400030: LBR_iiwa_14_R820_link8
+    400032: LBR_iiwa_14_R820_link8_resp
+    2100000: LBR_iiwa_14_R820Mat
+    2100002: LBR_iiwa_14_R820_link1Mat
+    2100004: LBR_iiwa_14_R820_link2Mat
+    2100006: LBR_iiwa_14_R820_link2_respMat
+    2100008: LBR_iiwa_14_R820_link3Mat
+    2100010: LBR_iiwa_14_R820_link3_respMat
+    2100012: LBR_iiwa_14_R820_link4Mat
+    2100014: LBR_iiwa_14_R820_link4_respMat
+    2100016: LBR_iiwa_14_R820_link5Mat
+    2100018: LBR_iiwa_14_R820_link5_respMat
+    2100020: LBR_iiwa_14_R820_link6Mat
+    2100022: LBR_iiwa_14_R820_link6_respMat
+    2100024: LBR_iiwa_14_R820_link7Mat
+    2100026: LBR_iiwa_14_R820_link7_respMat
+    2100028: LBR_iiwa_14_R820_link8Mat
+    2100030: LBR_iiwa_14_R820_link8_respMat
+    2300000: LBR_iiwa_14_R820
+    2300002: LBR_iiwa_14_R820_link1
+    2300004: LBR_iiwa_14_R820_link2
+    2300006: LBR_iiwa_14_R820_link2_resp
+    2300008: LBR_iiwa_14_R820_link3
+    2300010: LBR_iiwa_14_R820_link3_resp
+    2300012: LBR_iiwa_14_R820_link4
+    2300014: LBR_iiwa_14_R820_link4_resp
+    2300016: LBR_iiwa_14_R820_link5
+    2300018: LBR_iiwa_14_R820_link5_resp
+    2300020: LBR_iiwa_14_R820_link6
+    2300022: LBR_iiwa_14_R820_link6_resp
+    2300024: LBR_iiwa_14_R820_link7
+    2300026: LBR_iiwa_14_R820_link7_resp
+    2300028: LBR_iiwa_14_R820_link8
+    2300030: LBR_iiwa_14_R820_link8_resp
+    3300000: LBR_iiwa_14_R820
+    3300002: LBR_iiwa_14_R820_link1
+    3300004: LBR_iiwa_14_R820_link2
+    3300006: LBR_iiwa_14_R820_link2_resp
+    3300008: LBR_iiwa_14_R820_link3
+    3300010: LBR_iiwa_14_R820_link3_resp
+    3300012: LBR_iiwa_14_R820_link4
+    3300014: LBR_iiwa_14_R820_link4_resp
+    3300016: LBR_iiwa_14_R820_link5
+    3300018: LBR_iiwa_14_R820_link5_resp
+    3300020: LBR_iiwa_14_R820_link6
+    3300022: LBR_iiwa_14_R820_link6_resp
+    3300024: LBR_iiwa_14_R820_link7
+    3300026: LBR_iiwa_14_R820_link7_resp
+    3300028: LBR_iiwa_14_R820_link8
+    3300030: LBR_iiwa_14_R820_link8_resp
+    4300000: LBR_iiwa_14_R820
+    4300002: LBR_iiwa_14_R820_link1
+    4300004: LBR_iiwa_14_R820_link2
+    4300006: LBR_iiwa_14_R820_link2_resp
+    4300008: LBR_iiwa_14_R820_link3
+    4300010: LBR_iiwa_14_R820_link3_resp
+    4300012: LBR_iiwa_14_R820_link4
+    4300014: LBR_iiwa_14_R820_link4_resp
+    4300016: LBR_iiwa_14_R820_link5
+    4300018: LBR_iiwa_14_R820_link5_resp
+    4300020: LBR_iiwa_14_R820_link6
+    4300022: LBR_iiwa_14_R820_link6_resp
+    4300024: LBR_iiwa_14_R820_link7
+    4300026: LBR_iiwa_14_R820_link7_resp
+    4300028: LBR_iiwa_14_R820_link8
+    4300030: LBR_iiwa_14_R820_link8_resp
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LBR_iiwa_14_R820_link1Mat
+    second: {fileID: 2100000, guid: 0d471ab196f86074da62c23ee0812c4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LBR_iiwa_14_R820_link2Mat
+    second: {fileID: 2100000, guid: 420d3e702a2b5a345b08c0cc20c6fd25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LBR_iiwa_14_R820_link3Mat
+    second: {fileID: 2100000, guid: cafc3df95e1238b4d8ce6daeafe85a81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LBR_iiwa_14_R820_link4Mat
+    second: {fileID: 2100000, guid: 2da64acaea0eb8445aa70f1b00f39d25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LBR_iiwa_14_R820_link5Mat
+    second: {fileID: 2100000, guid: 4031395f6fb977a45a991655017c824e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LBR_iiwa_14_R820_link6Mat
+    second: {fileID: 2100000, guid: 1159246afc1117c4e938c93d75a99cac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LBR_iiwa_14_R820_link7Mat
+    second: {fileID: 2100000, guid: c7076f4e669ab1b498109be2e0df9ed1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LBR_iiwa_14_R820_link8Mat
+    second: {fileID: 2100000, guid: d7436f0380f92704b85a9db844fb3c59, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

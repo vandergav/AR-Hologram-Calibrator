@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 8e7dfb62d2118be49baf3793155a48e1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: UR5
+    100002: //RootNode
+    100004: UR5_link1_visible
+    100006: UR5_link2
+    100008: UR5_link2_visible
+    100010: UR5_link3
+    100012: UR5_link3_visible
+    100014: UR5_link4
+    100016: UR5_link4_visible
+    100018: UR5_link5
+    100020: UR5_link5_visible
+    100022: UR5_link6
+    100024: UR5_link6_visible
+    100026: UR5_link7
+    100028: UR5_link7_visible
+    400000: UR5
+    400002: //RootNode
+    400004: UR5_link1_visible
+    400006: UR5_link2
+    400008: UR5_link2_visible
+    400010: UR5_link3
+    400012: UR5_link3_visible
+    400014: UR5_link4
+    400016: UR5_link4_visible
+    400018: UR5_link5
+    400020: UR5_link5_visible
+    400022: UR5_link6
+    400024: UR5_link6_visible
+    400026: UR5_link7
+    400028: UR5_link7_visible
+    2100000: UR5Mat
+    2100002: UR5_link1_visibleMat
+    2100004: UR5_link2Mat
+    2100006: UR5_link2_visibleMat
+    2100008: UR5_link3Mat
+    2100010: UR5_link3_visibleMat
+    2100012: UR5_link4Mat
+    2100014: UR5_link4_visibleMat
+    2100016: UR5_link5Mat
+    2100018: UR5_link5_visibleMat
+    2100020: UR5_link6Mat
+    2100022: UR5_link6_visibleMat
+    2100024: UR5_link7Mat
+    2100026: UR5_link7_visibleMat
+    2300000: UR5
+    2300002: UR5_link1_visible
+    2300004: UR5_link2
+    2300006: UR5_link2_visible
+    2300008: UR5_link3
+    2300010: UR5_link3_visible
+    2300012: UR5_link4
+    2300014: UR5_link4_visible
+    2300016: UR5_link5
+    2300018: UR5_link5_visible
+    2300020: UR5_link6
+    2300022: UR5_link6_visible
+    2300024: UR5_link7
+    2300026: UR5_link7_visible
+    3300000: UR5
+    3300002: UR5_link1_visible
+    3300004: UR5_link2
+    3300006: UR5_link2_visible
+    3300008: UR5_link3
+    3300010: UR5_link3_visible
+    3300012: UR5_link4
+    3300014: UR5_link4_visible
+    3300016: UR5_link5
+    3300018: UR5_link5_visible
+    3300020: UR5_link6
+    3300022: UR5_link6_visible
+    3300024: UR5_link7
+    3300026: UR5_link7_visible
+    4300000: UR5
+    4300002: UR5_link1_visible
+    4300004: UR5_link2
+    4300006: UR5_link2_visible
+    4300008: UR5_link3
+    4300010: UR5_link3_visible
+    4300012: UR5_link4
+    4300014: UR5_link4_visible
+    4300016: UR5_link5
+    4300018: UR5_link5_visible
+    4300020: UR5_link6
+    4300022: UR5_link6_visible
+    4300024: UR5_link7
+    4300026: UR5_link7_visible
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UR5Mat
+    second: {fileID: 2100000, guid: 8abd09f705698284bb15f17ca338a642, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UR5_link1_visibleMat
+    second: {fileID: 2100000, guid: f846b70425c28b645a5b534ca86dca04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UR5_link2Mat
+    second: {fileID: 2100000, guid: f3e9d81a23624e34da15f74614139451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UR5_link2_visibleMat
+    second: {fileID: 2100000, guid: c5294cc116f64ad46a462c6caa3c85af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UR5_link3Mat
+    second: {fileID: 2100000, guid: c495bc6a5977ef74e9b0412f2af5f6ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UR5_link3_visibleMat
+    second: {fileID: 2100000, guid: 6166257b42ad1e8409e6ff92caa53ab0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UR5_link4Mat
+    second: {fileID: 2100000, guid: fd7d08fa4ef86ee40875df38a28f217e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UR5_link4_visibleMat
+    second: {fileID: 2100000, guid: 403deb1430ce8f14a9eb247a4fb3f6e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UR5_link5Mat
+    second: {fileID: 2100000, guid: d5e4d456779f8334594e8abb4c794e22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UR5_link5_visibleMat
+    second: {fileID: 2100000, guid: 6a6570c9c6168de42ac52402a249364a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UR5_link6Mat
+    second: {fileID: 2100000, guid: 1547b519a117c4044a8b260faf1cecad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UR5_link6_visibleMat
+    second: {fileID: 2100000, guid: f7500f20ec4d70843be6186931b9c016, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UR5_link7Mat
+    second: {fileID: 2100000, guid: 9e9a43c4eaa35054aa5dac050d9256a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UR5_link7_visibleMat
+    second: {fileID: 2100000, guid: c597e4d216ada844d952ab7f9a8d4cad, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
